@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1464201887 source:c:\users\fede\desktop\juegos\downloads\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464202554 c:\users\fede\desktop\juegos\downloads\tp_1_cascara\tp_1_cascara\funciones.h
+
+1464202554 source:c:\users\fede\desktop\juegos\downloads\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464202692 source:c:\users\fede\desktop\juegos\downloads\tp_laboratorio1\tp_1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464202554 c:\users\fede\desktop\juegos\downloads\tp_laboratorio1\tp_1\tp_1_cascara\funciones.h
+
+1464202692 source:c:\users\fede\desktop\juegos\downloads\tp_laboratorio1\tp_1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
