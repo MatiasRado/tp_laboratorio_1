@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1463016138 source:c:\users\fede\desktop\prep\prep\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655278 c:\users\fede\desktop\prep\prep\utn.h
+
+1463016138 c:\users\fede\desktop\prep\prep\func.h
+
+1462655278 source:c:\users\fede\desktop\prep\prep\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1463016234 source:c:\users\fede\desktop\prep\prep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1463098710 source:c:\users\alumno.lab5pc03\desktop\prep\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 c:\users\alumno.lab5pc03\desktop\prep\utn.h
+
+1463098822 c:\users\alumno.lab5pc03\desktop\prep\func.h
+
+1463098975 source:c:\users\alumno.lab5pc03\desktop\prep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 source:c:\users\alumno.lab5pc03\desktop\prep\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1463098710 source:c:\users\alumno.lab5pc03\desktop\ramundo, federico\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 c:\users\alumno.lab5pc03\desktop\ramundo, federico\utn.h
+
+1463098822 c:\users\alumno.lab5pc03\desktop\ramundo, federico\func.h
+
+1462655280 source:c:\users\alumno.lab5pc03\desktop\ramundo, federico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1463098712 source:k:\parcial ramundo, federico\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 k:\parcial ramundo, federico\utn.h
+
+1463098824 k:\parcial ramundo, federico\func.h
+
+1463099350 source:k:\parcial ramundo, federico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 source:k:\parcial ramundo, federico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1463098712 source:c:\users\fede\desktop\parcial ramundo, federico\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 c:\users\fede\desktop\parcial ramundo, federico\utn.h
+
+1463098824 c:\users\fede\desktop\parcial ramundo, federico\func.h
+
+1463099350 source:c:\users\fede\desktop\parcial ramundo, federico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+
+1462655280 source:c:\users\fede\desktop\parcial ramundo, federico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1462655280 source:c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1462655280 c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\utn.h
+
+1466458169 source:c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466451648 c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\arraylist.h
+
+1466461988 source:c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
+1466460667 c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\func.h
+	"ArrayList.h"
+
+1466462159 source:c:\users\fede\desktop\parcial ramundo, federico\parcial ramundo, federico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
+1466553111 source:c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466451648 c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\arraylist.h
+
+1466553079 source:c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
+1462655280 c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\utn.h
+
+1466553078 c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\func.h
+	"ArrayList.h"
+
+1462655280 source:c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1466553085 source:c:\users\fede\desktop\implementacion arraylist\parcial ramundo, federico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
+1466690805 source:c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466451648 c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\arraylist.h
+
+1466703682 source:c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
+1462655280 c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\utn.h
+
+1466553129 c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\func.h
+	"ArrayList.h"
+
+1462655280 source:c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1466703826 source:c:\users\mradosavljevic\documents\progra c\parcial 2\implementacion arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"func.h"
+	"ArrayList.h"
+
